@@ -1,3 +1,20 @@
+# Ignore build directories
+build/
+debug/
+
+# Ignore Qt project user configuration files
+*.pro.user
+
+# Ignore Qt temporary files
+*.qmake.stash
+
+# Ignore object files and executables
+*.o
+*.exe
+
+# Ignore specific temporary or cached files or directories if applicable
+.qtc_clangd/
+
 # C++ objects and libs
 *.slo
 *.lo
