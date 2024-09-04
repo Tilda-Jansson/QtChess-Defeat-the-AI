@@ -19,6 +19,6 @@ The game starts with an initial screen where the player can choose a color and A
 When the game ends, a pop-up announces the winning color, and the player is given the option to play again or exit the game.
 
 
-![Two onestep AIs playing](img/chess.gif)
+![Two onestep AIs playing](img/ChessGame_1MRg5KRbqw.gif)
 
 
